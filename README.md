@@ -1,2 +1,2 @@
-# First-repo
-My first repository
+# Second-repo
+*My second repository*
